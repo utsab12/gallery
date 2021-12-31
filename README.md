@@ -1,16 +1,8 @@
-# gallery
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hello there 
+This is MD Shahrear Bin Satter.
+I have been given a task for making a gallery app.
+The app source code is given here. I have worked on the requirements as given.
+By opening my app you can see a list of photos with infinite scroll.
+The user can tap the photo and by tapping the photo the user can have full screen view of the photo.And after that if you want to go back just swipe up for it.
+The user also can do infinite scroll on the gallery screen.
+Thank you.
